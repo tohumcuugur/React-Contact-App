@@ -1,4 +1,5 @@
-This is a react contact list application.
+<p>This is a react contact list application.U can add new contacts but the name and number fields are required to fill. U can find your contacts easily by using filter , u just need to write name or phone number to filter area.</p>
+<br/>
 ![uygulama-goruntusu](https://user-images.githubusercontent.com/96912858/192784736-187569d2-7569-4a3a-b6c1-8f8c83a71fc0.png)
 
 <h1>FOR DEMO</h1>
