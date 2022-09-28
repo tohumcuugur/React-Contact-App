@@ -1,3 +1,8 @@
+This is a react contact list application.
+
+<h1>FOR DEMO</h1>
+<h2></h2>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
